@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sai
-- 👀 I’m interested in ...playing with huge data
+- 👀 I’m interested in ...playing with huge data sets
 - 🌱 I’m currently learning ...dataanalytics
 - 💞️ I’m looking to collaborate on ...dataanalyst projects or business analyst projects
 - 📫 How to reach me ...just drop hi to this mail @ a.v.saikumar222@gmail.com
